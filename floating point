@@ -1,0 +1,10 @@
+public class sumof {
+	public static void main(String[] args) {
+	
+		float a=1.7f;
+	float b=1.3f;
+	System.out.println(a+b);
+	}
+	
+
+}
