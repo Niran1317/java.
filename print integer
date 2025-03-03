@@ -1,4 +1,4 @@
-package variable;
+
 
 public class printinteger {
        public static void main(String[] args) {
