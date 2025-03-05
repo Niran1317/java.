@@ -1,0 +1,7 @@
+public class boolea {
+	public static void main(String[] args) {
+		boolean isjavafun=true;
+		System.out.println("Is Java Fun:"+isjavafun);	
+	}
+
+}
