@@ -1,0 +1,9 @@
+public class concatenation {
+	public static void main(String[] args) {
+		String a="john";
+		String b="doe";
+		System.out.println("Fullname:"+a+b);
+		
+	}
+
+}
