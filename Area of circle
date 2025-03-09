@@ -1,0 +1,9 @@
+public class areaofcircle {
+	public static void main(String[] args) {
+		
+	
+	double radius=7.0;
+	double areas=Math.PI*radius*radius;
+	System.out.println(areas);
+	}
+}
