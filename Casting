@@ -1,0 +1,10 @@
+public class casting {
+	public static void main(String[] args) {
+		int num=100;
+		double john=num;
+		System.out.println("The integer is:"+num);
+		System.out.println("The double is:"+john);
+		
+	}
+
+}
