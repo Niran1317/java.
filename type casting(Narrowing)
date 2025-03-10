@@ -1,0 +1,11 @@
+public class doublevalue {
+	public static void main(String[] args) {
+		double value=99.99;
+		int num=(int)value;
+		System.out.println("double is:"+value);
+		System.out.println("interger is:"+num);
+		
+		
+	}
+
+}
