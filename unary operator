@@ -1,0 +1,17 @@
+public class unaray {
+	public static void main(String[] args) {
+		int a=5;
+		System.out.println("post-increment:"+(a++));
+		System.out.println("Ater post-increment:"+(+a));
+
+		System.out.println("pre-increment:"+(++a));
+	
+
+		System.out.println("post-decrement:"+(a--));
+		System.out.println("pre-decrement:"+(--a));
+
+
+
+	}
+
+}
