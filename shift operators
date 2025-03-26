@@ -1,0 +1,13 @@
+public class shift {
+	public static void main(String[] args) {
+		int x=8;
+		int leftshift=x<<1;
+		int rightshift=x>>1;
+		System.out.println("x<<1:"+leftshift);
+		System.out.println("x>>1:"+rightshift);
+
+
+		
+	}
+
+}
