@@ -1,0 +1,7 @@
+public class ternary {
+	public static void main(String[] args) {
+		int a=25,b=30;
+		System.out.println(a>b ? a:b);
+	}
+
+}
