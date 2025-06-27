@@ -1,0 +1,26 @@
+
+public class ifelseladderbmi {
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		System.out.println("enter a weighth(kg):");
+	    double weight=scan.nextDouble();
+	    System.out.println("enter a height(kg):");
+	    double height=scan.nextDouble();
+	    double BMI=weight/(height*height);
+	    System.out.println("BMI:%2f\n"+BMI);
+	    if(BMI<18.5) {
+	    	System.out.println("category:underweight");
+	    }else if(BMI>=18.5 && BMI<24.9){
+	    	System.out.println("category:Normalweight");}
+	    else if(BMI>=25 && BMI<29.9){
+	    	System.out.println("category:overweight");}
+	    
+	    else {
+	    	System.out.println("category:obese");
+	    
+
+	    	
+	    }
+
+}
+}
