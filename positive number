@@ -1,0 +1,16 @@
+public class ifstatement {
+	public static void main(String[] args) {
+		Scanner positive=new Scanner(System.in);
+		System.out.println("enter a number");
+		
+		
+		int num=positive.nextInt();
+		if(num>0) {
+			System.out.println(num+": is a positive number" );
+		}else {
+			System.out.println(num+": is a not  positive number" );
+		}
+		
+	}
+
+}
